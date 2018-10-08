@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+dist
+spa-dist
+stats.json
+yarn-error.log
+
+deploy/.tmp/*
+
+# placeholder file for empty directories
+!.keep
+
+
+.DS_Store
+.DS_Store?
+.cache
+public
